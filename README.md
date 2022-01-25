@@ -3,8 +3,8 @@
 - 🔭 Atualmente estou iniciando na programação
 - 🌱 Estou estudando HTML; CSS & JAVASCRIPT
 - 📫 Contate meu e-mail: lucas.pedroaguilar@gmail.com
-- 📘 Estudante de programação na <TreinaWeb>
-- 🎓 Relações Internaionais <UNIP>
+- 📘 Estudante de programação na TreinaWeb
+- 🎓 Relações Internaionais UNIP
 - 😄 Pronouns: Ele/Dele 
   
   <div align="center">
